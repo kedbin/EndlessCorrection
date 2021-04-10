@@ -2631,10 +2631,13 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+	
 
 		.image.center {
 			display: block;
 			margin: auto;
+			width: 57%;
+}
 		}
 
 		.image.main {
