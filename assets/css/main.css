@@ -2637,7 +2637,11 @@ input, select, textarea {
 			display: block;
 			margin: auto;
 			width: 57%;
-}
+		}
+
+		.photosize {
+			width: 700px;
+			height: 933px;
 		}
 
 		.image.main {
