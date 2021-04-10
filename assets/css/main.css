@@ -2632,6 +2632,12 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.center {
+			margin: auto;
+			border: 5px solid #FFFF00;
+			padding: 10px;
+		}
+
 		.image.main {
 			display: block;
 			margin: 4rem 0;
