@@ -2633,9 +2633,7 @@ input, select, textarea {
 			}
 
 		.image.center {
-			margin: auto;
-			border: 5px solid #FFFF00;
-			padding: 10px;
+			text-align:center;
 		}
 
 		.image.main {
