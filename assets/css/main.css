@@ -2633,7 +2633,8 @@ input, select, textarea {
 			}
 
 		.image.center {
-			text-align:center;
+			display: block;
+			margin: auto;
 		}
 
 		.image.main {
